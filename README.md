@@ -27,8 +27,6 @@ O resultado é multiplicado pelo fator de atividade (1.2 para sedentários até 
 
 ## 📂 Como executar o projeto
 
-## 📂 Como executar o projeto
-
 1. Certifique-se de ter o JDK 17 ou superior instalado.
 2. Clone o repositório:
    ```bash
