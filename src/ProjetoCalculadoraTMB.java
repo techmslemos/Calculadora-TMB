@@ -5,8 +5,13 @@ public class ProjetoCalculadoraTMB {
         System.out.print("Digite seu Nome: ");
         String nome = entrada.nextLine();
         System.out.print("Digite sua Idade: ");
-        // TODO: Implementar validação para impedir idades negativas
         int idade = entrada.nextInt();
+
+        if (idade <= 0) {
+            System.out.println("Erro: A idade deve ser um valor positivo.");
+            return;
+        }
+
         System.out.print("Digite seu Peso: ");
         double pesoKg = entrada.nextDouble();
         System.out.print("Digite sua Altura (CM): ");
