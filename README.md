@@ -27,10 +27,12 @@ O resultado é multiplicado pelo fator de atividade (1.2 para sedentários até 
 
 ## 📂 Como executar o projeto
 
+## 📂 Como executar o projeto
+
 1. Certifique-se de ter o JDK 17 ou superior instalado.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/techmslemos/Calculadora-TMB.git](https://github.com/techmslemos/Calculadora-TMB.git) 
+   git clone https://github.com/techmslemos/Calculadora-TMB.git
 3. Compile e execute o arquivo ProjetoCalculadoraTMB.java.
 
 Desenvolvido por Matheus Lemos - Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/matheus-lemos-3a5243242/).
